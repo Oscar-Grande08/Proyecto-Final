@@ -55,3 +55,5 @@ Despliegue de la plataforma en la web mediante Streamlit.
 Publicación de la imagen del contenedor en Docker Hub para facilitar su distribución y uso.
 
 Documentación completa del proyecto en Overleaf, explicando todos los procesos y metodologías implementadas.
+
+https://hub.docker.com/repository/docker/oscargrande08/lab-detector/general (Docker-hub)
